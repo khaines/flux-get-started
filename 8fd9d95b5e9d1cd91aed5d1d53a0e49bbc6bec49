@@ -1,0 +1,1 @@
+{"jobID":"2b420790-e16d-f632-713a-b5fc642b1d33","spec":{"type":"policy","cause":{"Message":"","User":"Ken Haines \u003cken@kenhaines.net\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
